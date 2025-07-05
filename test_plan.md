@@ -1,22 +1,22 @@
-## 🧪 Test Plan
+ Test Plan
 
-- **Project Name**: NopCommerce Manual Testing
-- **Tester**: Jayani Thashmila
-- **Test Type**: Functional & UI Testing
-- **Test Approach**: Manual Testing
-- **Browser**: Chrome, Firefox
+- Project Name: NopCommerce Manual Testing
+- Tester: Jayani Thashmila
+- Test Type: Functional & UI Testing
+- Test Approach: Manual Testing
+- Browser: Chrome
 
-### 🎯 Objectives
+ Objectives
 - Validate core ecommerce functionalities
 - Ensure UI & navigation behave as expected
 
-### 🧭 Scope
+ Scope
 - Account registration/login
 - Product browsing
 - Cart functionality
 - Checkout process
 - Order confirmation
 
-### 🛠️ Tools
+ Tools
 - Excel / Google Sheets
 - Browser Developer Tools
